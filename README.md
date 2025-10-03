@@ -1,5 +1,5 @@
 # I'm Isaac Garcia 👋
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Isaac-max-bit"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Isaac-max-bit&theme=merko"/>
 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-max-bit&layout=compact"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-max-bit&layout=compact&theme=merko"/>
