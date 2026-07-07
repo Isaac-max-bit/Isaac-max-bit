@@ -1,88 +1,192 @@
-# 👨‍💻 Isaac Garcia
+<div align="center">
 
-🚀 **Front-End Developer | Web Interface Specialist**
+# ⚡ Isaac Garcia
 
-Soy desarrollador especializado en **Front-End Development**, enfocado en crear interfaces modernas, rápidas y accesibles utilizando tecnologías web actuales.
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Front-End+Developer;React+Developer;JavaScript+Enthusiast;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
 
-Me apasiona transformar ideas en **experiencias web interactivas**, utilizando buenas prácticas de desarrollo, diseño responsivo y código limpio.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7A00FF&height=250&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
 
 ---
 
-## 💡 Tecnologías principales
+# 👨‍💻 About Me
+
+<img align="right" width="380" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+
+### Hi there 👋
+
+I'm **Isaac Garcia**, a passionate **Front-End Developer** from Colombia 🇨🇴.
+
+I enjoy building modern web applications with clean architecture, responsive interfaces and excellent user experience.
+
+Currently I'm focused on:
+
+- ⚛ React
+- 💻 JavaScript
+- 🎨 UI / UX
+- 🐍 Python
+- ☁️ Cloud Computing
+- 📚 Software Engineering
+
+> *"Code is where creativity meets logic."*
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
 
 ### Front-End
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=yellow)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite"/>
 
-### Lenguajes adicionales
+### Back-End
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+<img src="https://skillicons.dev/icons?i=python,nodejs"/>
 
-### Herramientas
+### Database
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
----
+### Tools
 
-## 📂 Proyectos destacados
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
-### 🎨 Responsive Landing Page
-
-Landing page moderna desarrollada con **HTML, CSS y JavaScript**.
-
-Características:
-
-* Diseño responsive
-* Animaciones CSS
-* UI moderna
+</div>
 
 ---
 
-### ⚛️ React Web Application
+# 🌌 Current Focus
 
-Aplicación web desarrollada con **React**.
+```text
+████████████████████░░░░ 80%
 
-Incluye:
-
-* Componentes reutilizables
-* Manejo de estado
-* Consumo de API
-
----
-
-### 🐍 Python Data Project
-
-Proyecto en Python enfocado en **análisis de datos y automatización**.
-
-Tecnologías:
-
-* Python
-* Pandas
-* Visualización de datos
+React Development
+JavaScript
+Responsive Design
+API Integration
+Performance Optimization
+```
 
 ---
 
-## 📊 GitHub Stats
+# 📂 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=Isaac-max-bit\&theme=tokyonight\&show_icons=true)
+## 🌐 Responsive Landing Page
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-max-bit\&layout=compact\&theme=tokyonight)
+✔ HTML5
 
----
+✔ CSS3
 
-## 🌐 Contacto
+✔ JavaScript
 
-📧 Email
-[garciaalejoisaac@gmail.com](mailto:garciaalejoisaac@gmail.com)
+✔ Modern UI
 
-📷 Instagram
-https://www.instagram.com/isaacalejandrogarciaamaya/
+✔ Responsive Design
 
 ---
 
-⭐ Siempre aprendiendo nuevas tecnologías y construyendo proyectos web innovadores.
+## ⚛ React Application
 
+✔ Components
+
+✔ Hooks
+
+✔ API REST
+
+✔ State Management
+
+---
+
+## 🐍 Python Automation
+
+✔ Python
+
+✔ Pandas
+
+✔ Automation
+
+✔ Data Analysis
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Isaac-max-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-max-bit&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Isaac-max-bit&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaac-max-bit&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Isaac-max-bit&theme=algolia&row=2&column=4"/>
+
+</div>
+
+---
+
+# ⚡ Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Isaac-max-bit&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌎 Connect With Me
+
+<div align="center">
+
+<a href="mailto:garciaalejoisaac@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/isaacalejandrogarciaamaya/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Isaac-max-bit">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Quote
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A00FF,100:00F7FF&height=170&section=footer"/>
+
+</div>
