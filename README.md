@@ -1,139 +1,184 @@
 <div align="center">
 
-# ⚡ Isaac Garcia · Selected Work
+# ⚡ Isaac Garcia
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Front-End+Developer;React+Specialist;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Front-End+Developer;React+Developer;JavaScript+Enthusiast;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7A00FF&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7A00FF&height=250&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
 
-## 🧭 Overview
+# 👨‍💻 About Me
+
+<img align="right" width="380" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+
+### Hi there 👋
+
+I'm **Isaac Garcia**, a passionate **Front-End Developer** from Colombia 🇨🇴.
+
+I enjoy building modern web applications with clean architecture, responsive interfaces and excellent user experience.
+
+Currently I'm focused on:
+
+- ⚛ React
+- 💻 JavaScript
+- 🎨 UI / UX
+- 🐍 Python
+- ☁️ Cloud Computing
+- 📚 Software Engineering
+
+> *"Code is where creativity meets logic."*
+
+---
+
+# 🚀 Tech Stack
 
 <div align="center">
 
-| Status | Location | Focus |
-| :---: | :---: | :---: |
-| 🟢 **Available for Projects** | 🇨🇴 Colombia[cite: 1] | Front-End & Web Architecture |
+### Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite"/>
+
+### Back-End
+
+<img src="https://skillicons.dev/icons?i=python,nodejs"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
 </div>
 
 ---
 
-## 💡 The idea behind the work
+# 🌌 Current Focus
 
-> *"Building useful things and learning in public."*[cite: 1]
+```text
+████████████████████░░░░ 80%
 
-* 🚀 **Philosophy:** Small, useful work over vague claims[cite: 1]. Clean architecture, responsive interfaces, and continuous performance optimization.
-* 📍 **Based in:** Colombia[cite: 1]. Active contributor to the local developer ecosystem.
-* 👥 **Community:** 1 follower · 2 following[cite: 1]. Growing network and open-source mindset.
-
----
-
-## 🗂️ Case Studies (Featured Repositories)
-
-| Repository & Link | Description & Tech Stack |
-| :--- | :--- |
-| **[datos-con-entrada-salida](https://github.com/Isaac-max-bit/datos-con-entrada-salida)**[cite: 1, 2] | Scripts de procesamiento y análisis estructurado de flujos de datos.<br>`Python` · `0 stars`[cite: 2] |
-| **[MarketHub](https://github.com/Isaac-max-bit/MarketHub)**[cite: 1, 2] | Interfaz de comercio y componentes visuales modernos para e-commerce.<br>`CSS` · `0 stars`[cite: 2] |
-| **[mini-login](https://github.com/Isaac-max-bit/mini-login)**[cite: 2] | Sistema de autenticación de usuario ligero, interactivo y responsivo.<br>`JavaScript` · `0 stars`[cite: 2] |
-| **[proyecto-sena](https://github.com/Isaac-max-bit/proyecto-sena)**[cite: 2] | Desarrollo académico y solución integral de software aplicando buenas prácticas.<br>`Open Source` · `0 stars`[cite: 2] |
+React Development
+JavaScript
+Responsive Design
+API Integration
+Performance Optimization
+```
 
 ---
 
-## 📊 Details Worth Noticing
+# 📂 Featured Projects
+
+## 🌐 Responsive Landing Page
+
+✔ HTML5
+
+✔ CSS3
+
+✔ JavaScript
+
+✔ Modern UI
+
+✔ Responsive Design
+
+---
+
+## ⚛ React Application
+
+✔ Components
+
+✔ Hooks
+
+✔ API REST
+
+✔ State Management
+
+---
+
+## 🐍 Python Automation
+
+✔ Python
+
+✔ Pandas
+
+✔ Automation
+
+✔ Data Analysis
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-| Open Source Repos | Impact & Stars | Community Reach |
-| :---: | :---: | :---: |
-| **131** public repositories[cite: 2] | **0** stars earned[cite: 2] | **1** follower[cite: 2] |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Isaac-max-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-max-bit&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-  <em>isaac-max-bit is shipping 131 public projects with 0 stars of proof.</em>[cite: 2]
-</div>
-
----
-
-## 🛠️ Creative Toolkit
-
-<div align="center">
-
-### Front-End & Core
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
-
-### Back-End & Data
-<img src="https://skillicons.dev/icons?i=python,java,nodejs,mysql" />
-
-### Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,shell,c,figma,postman" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Isaac-max-bit&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics & Streak
+# 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Isaac-max-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-max-bit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Isaac-max-bit&theme=tokyonight&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaac-max-bit&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Activity
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Isaac-max-bit&theme=algolia&row=1&column=4&no-bg=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaac-max-bit&theme=tokyo-night&hide_border=true&radius=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Isaac-max-bit&theme=algolia&row=2&column=4"/>
 
 </div>
 
 ---
 
-## ✨ Make Something Memorable
+# ⚡ Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Isaac-max-bit&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌎 Connect With Me
 
 <div align="center">
 
 <a href="mailto:garciaalejoisaac@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.instagram.com/isaacalejandrogarciaamaya/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Isaac-max-bit">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=Isaac-max-bit&label=Profile%2520Views&color=00F7FF&style=for-the-badge"/>
-
 </div>
 
 ---
 
-<div align="center">
-  <small>isaac-max-bit · Creative portfolio generated with GitSkins style</small>
-</div>
-
----
+# 💻 Quote
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A00FF,100:00F7FF&height=170&section=footer"/>
+> **"First, solve the problem. Then, write the code."**
 
 </div>
